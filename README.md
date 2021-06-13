@@ -1,3 +1,3 @@
 # 09_lighting
 
-![sundial.png](sundial)
+![sundial](sundial.png)
