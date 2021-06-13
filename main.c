@@ -31,9 +31,9 @@ int main(int argc, char **argv) {
   light[LOCATION][1] = 0.75;
   light[LOCATION][2] = 1;
 
-  light[COLOR][RED] = 0;
-  light[COLOR][GREEN] = 255;
-  light[COLOR][BLUE] = 255;
+  light[COLOR][RED] = 255;
+  light[COLOR][GREEN] = 215;
+  light[COLOR][BLUE] = 0;
 
   // view vector
   view[0] = 0;
